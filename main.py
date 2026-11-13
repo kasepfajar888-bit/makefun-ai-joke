@@ -8,10 +8,11 @@ in the grader (same convention as the kit starter).
 import os
 from pathlib import Path
 
-# Final wording: one flowing sentence, punchline on the very last word.
+# Iteration 2, candidate #13 from my brainstorm: the agent takes every
+# job in the pipeline, and the human's leftover role is the punchline.
 JOKE = (
-    "My coding agent refactored 10,000 lines without me, but still needs "
-    "my help for one thing: proving to a website that it's not a robot."
+    "My agent wrote the code, wrote the tests and approved its own pull request. "
+    "I'm just the emotional support human in the loop."
 )
 
 
