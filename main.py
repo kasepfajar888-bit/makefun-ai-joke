@@ -8,11 +8,11 @@ in the grader (same convention as the kit starter).
 import os
 from pathlib import Path
 
-# Iteration 3, candidate #7 from my brainstorm: the agent explains my
-# own code back to me flawlessly, then silently fixes my naming shame.
+# Iteration 4, winner of my second brainstorm: the agent reads my git
+# history to learn the project, and weaponises my worst commits kindly.
 JOKE = (
-    "I asked my agent to explain my own code. It did, perfectly, then quietly "
-    "renamed my variables like a disappointed parent."
+    "My agent read my git history to understand the project, and now it brings "
+    "up my 2 a.m. commits the way a therapist brings up childhood."
 )
 
 
