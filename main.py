@@ -8,11 +8,11 @@ in the grader (same convention as the kit starter).
 import os
 from pathlib import Path
 
-# Iteration 2, candidate #13 from my brainstorm: the agent takes every
-# job in the pipeline, and the human's leftover role is the punchline.
+# Iteration 3, candidate #7 from my brainstorm: the agent explains my
+# own code back to me flawlessly, then silently fixes my naming shame.
 JOKE = (
-    "My agent wrote the code, wrote the tests and approved its own pull request. "
-    "I'm just the emotional support human in the loop."
+    "I asked my agent to explain my own code. It did, perfectly, then quietly "
+    "renamed my variables like a disappointed parent."
 )
 
 
